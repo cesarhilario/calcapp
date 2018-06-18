@@ -1,6 +1,9 @@
 # Calcapp - Calculadora Básica
 Projeto destinado ao processo da TAQE
 
+## SOBRE
+** App de calculadora simples com as 4 operações básicas, histórico e notificações.
+
 ## Como testar o app?
 
 1. Com o projeto clonado, abra o diretório Projeto no terminal.
